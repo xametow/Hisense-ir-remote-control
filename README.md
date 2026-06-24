@@ -87,6 +87,30 @@ dumps/
 
 ---
 
+## Features
+
+- Apple HomeKit integration for Hisense AC
+- Siri voice control
+- Internal installation inside the AC unit
+- 3D-printable enclosure included (STL + source model)
+- IR protocol dumps included
+- No external boxes or visible wiring
+- Local network operation without cloud services
+
+---
+
+## Keywords
+
+- Hisense air conditioner HomeKit
+- Hisense AC Siri control
+- Hisense IR remote ESP32
+- Hisense HomeKit integration
+- Hisense KELON168 protocol
+- ESP32 HomeKit air conditioner
+- HomeSpan air conditioner
+
+---
+
 ## Благодарности
 
 Коды протокола сняты с оригинального пульта Hisense через IRremoteESP8266.  
